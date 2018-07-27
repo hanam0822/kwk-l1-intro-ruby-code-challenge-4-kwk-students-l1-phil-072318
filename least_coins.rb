@@ -1,7 +1,6 @@
-#write out your code here
 
 def least_coins(cents)
-
-#Code your answer here!
-
+number = 0 
+while number < 30 
+  number +=
 end
